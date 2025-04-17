@@ -1,0 +1,63 @@
+10-1: Unable to copy -- change location
+10-2: Signal good
+10-3: Stop transmitting
+10-4: Acknowledgement (OK)
+10-5: Relay
+10-6: Busy – stand by unless urgent
+10-7: Out of service
+10-8: In service
+10-9: Repeat
+10-10: Fight in progress
+10-11: Dog case
+10-12: Stand by (stop)
+10-13: Weather – road report
+10-14: Prowler report
+10-15: Civil disturbance
+10-16: Complete present assignment quickly
+10-17: Any traffic
+10-18: Return to station/office
+10-19: Contact
+10-20: Location
+10-21: Phone _______
+10-22: Disregard
+10-23: Arrived at scene
+10-24: Assignment complete
+10-25: Report to ________
+10-26: Detaining suspect
+10-27: Driver’s license information
+10-28: Vehicle registration information
+10-29: Check records for wants/warrants
+10-30: Unauthorized use of radio
+10-31: Crime in progress
+10-32: Person with gun
+10-33: Emergency
+10-34: Riot
+10-35: Major crime alert
+10-36: Correct time
+10-37: Suspicious vehicle
+10-38: Stopping suspicious vehicle
+10-39: Nil – reserved
+10-40: Nil – reserved
+10-41: Squad in vicinity
+10-42: Operator on duty
+10-43: Permission to leave patrol area
+10-44: Nil – reserved
+10-45: Nil – reserved
+10-46: Nil – reserved
+10-47: Nil – reserved
+10-48: Nil – reserved
+10-49: Traffic light out at _______
+10-50: Accident (fatal, personal injury, property damage)
+10-51: Wrecker needed
+10-52: Ambulance needed
+10-53: Road blocked at _______
+10-54: Livestock on highway
+10-55: Suspected DUI
+10-56: Intoxicated pedestrian
+10-57: Hit and run (fatal, personal injury, property damage)
+10-58: Direct traffic
+10-59: Convoy or escort
+10-60: Squad in vicinity
+10-61: Isolate self for message
+10-62: Reply to message
+10-63: Prepare to make written copy

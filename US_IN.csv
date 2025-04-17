@@ -1,0 +1,100 @@
+10-0: Fatality  
+10-1: Signal Weak  
+10-2: Signal Good  
+10-3: Stop Transmitting  
+10-4: Message Received  
+10-5: Relay  
+10-6: Busy  
+10-7: Out of Service  
+10-8: In Service  
+10-9: Repeat  
+10-10: Fight  
+10-11: Animal  
+10-12: Stand By  
+10-13: Report Conditions  
+10-14: Prowler Report  
+10-15: Civil Disturbance  
+10-16: Domestic Problem  
+10-17: Complainant  
+10-18: Urgent  
+10-19: Go to Station  
+10-20: Location  
+10-21: Call  
+10-22: Disregard  
+10-23: Arrived at Scene  
+10-24: Assignment Complete  
+10-25: Report to _____  
+10-26: Detaining Suspect  
+10-27: Drivers License Information  
+10-28: Vehicle Registration Information  
+10-29: Check for Wants/Warrants  
+10-30: Illegal Use of Radio  
+10-31: Crime in Progress  
+10-32: Gun  
+10-33: Emergency – Stand By  
+10-34: Riot  
+10-35: Major Crime Alert  
+10-36: Time  
+10-37: Suspicious Person/Vehicle  
+10-38: Stop Suspicious Vehicle  
+10-39: Use Lights & Siren  
+10-40: Respond Quietly  
+10-41: Beginning Shift  
+10-42: Ending Shift  
+10-43: Information  
+10-44: Permission to Leave  
+10-45: Dead Animal  
+10-46: Assist Motorist  
+10-47: Emergency Road Repair  
+10-48: Traffic Control  
+10-49: Traffic Signal Out  
+10-50: Traffic Accident  
+10-51: Tow Truck  
+10-52: Ambulance  
+10-53: Roadway Blocked  
+10-54: Livestock on Roadway  
+10-55: Intoxicated Driver  
+10-56: Intoxicated Pedestrian  
+10-57: Hit & Run Accident  
+10-58: Direct Traffic  
+10-59: Escort  
+10-60: Squad in Vicinity  
+10-61: Personnel in Vicinity  
+10-62: Reply to Message  
+10-63: Prepare to Copy  
+10-64: Local Message  
+10-65: Net Message  
+10-66: Cancel Message  
+10-67: Clear for Net Message  
+10-68: Dispatch Information  
+10-69: Message Received  
+10-70: Fire  
+10-71: Advise Nature of Fire  
+10-72: Report Alarm Progress  
+10-73: Smoke Report  
+10-74: Negative  
+10-75: In Contact With _____  
+10-76: En Route  
+10-77: Estimated Time of Arrival  
+10-78: Request Assistance  
+10-79: Notify Coroner  
+10-80: Alarm  
+10-81: Breathalyzer Report  
+10-82: Reserve Lodgings  
+10-83: School Crossing Detail  
+10-84: Estimated Time of Arrival  
+10-85: Arrival Delayed  
+10-86: Operator on Duty  
+10-87: Pick Up  
+10-88: Advise Telephone Number  
+10-89: Bomb Threat  
+10-90: Bank Alarm  
+10-91: Pick Up Subject  
+10-92: Illegally Parked Vehicle  
+10-93: Blockage  
+10-94: Drag Racing  
+10-95: Subject in Custody  
+10-96: Mental Subject  
+10-97: Test Signal  
+10-98: Prison Break  
+10-99: Wanted or Stolen

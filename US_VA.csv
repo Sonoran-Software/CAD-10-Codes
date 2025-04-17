@@ -1,0 +1,93 @@
+10-1: Injury to Member
+10-2: Lost/Found Property
+10-3: Missing Person (A: Adult/J: Juvenile)
+10-4: OK
+10-5: Relay (E: Eye, B: Blood, G: Governor’s Warrant, W: Warrant)
+10-6: Busy
+10-7: Out of Service
+10-8: In Service
+10-9: Say Again
+10-10: Negative
+10-11: Vandalism
+10-12: Stand By/Stop
+10-13: Existing Conditions
+10-14: Message/Information
+10-15: Forgery/Fraud/Embezzlement
+10-16: Reply to Message
+10-17: Enroute
+10-18: Assault and Battery
+10-19: Threatening Person or Property
+10-20: Location
+10-21: Call by Phone
+10-22: Disregard
+10-23: Arrived at Scene
+10-24: Assignment Completed
+10-25: Report To (Meet)
+10-26: ETA
+10-27: Operator’s License Info
+10-28: Vehicle Ownership Info
+10-29: Wanted Records/EPIC Check
+10-30: Danger/Caution
+10-31: Trespassing/Prowler
+10-32: Alarm at ______
+10-33: HELP ME QUICK! (Emergency)
+10-34: Time
+10-35: Disorderly/Disturbance
+10-36: Domestic
+10-37: Roll Call
+10-38: Traffic Stop
+10-39: Stolen/Unauthorized Vehicle Report
+10-40: Bomb Threat/Explosive Device
+10-41: Beginning Tour
+10-42: Ending Tour
+10-43: Investigate Suspicious (P: Person, V: Vehicle)
+10-44: Pedestrian on Highway
+10-45: Stopping Suspicious Vehicle
+10-46: Disabled Vehicle (H: Hazard, O: Occupied, A: Abandoned)
+10-47: Chase in Progress
+10-48: Wanted Indicated
+10-49: Person w/ Gun/Weapon
+10-50: Vehicle Crash (Fatal, PI, PD, State Vehicle)
+10-51: Wrecker Needed
+10-52: Ambulance Needed
+10-53: Assist Other Agency
+10-54: Livestock on Highway
+10-55: Intoxicated Driver
+10-56: Intoxicated Pedestrian
+10-57: Hit & Run
+10-58: Traffic Control of ______
+10-59: Fight in Progress
+10-60: Fire
+10-61: Explosion
+10-62: Arson
+10-63: Hazardous Material Incident
+10-64: Criminal Offense Other
+10-65: Robbery (B: Bank, A: Armed, S: Strong-armed)
+10-66: Larceny
+10-67: Burglary/Breaking & Entering
+10-68: Throwing Missiles
+10-69: Traffic Other
+10-70: Homicide
+10-71: Shooting
+10-72: (R: Rape, S: Sex Offense)
+10-73: Kidnapping/Abduction
+10-74: Hostage Situation
+10-75: Drugs/Narcotics
+10-76: Debris in Roadway
+10-77: Brandishing a Firearm
+10-78: Weapons Violation
+10-79: Assault w/ a Weapon
+10-80: Escapee
+10-81: Breathalyzer
+10-82: Dead Body
+10-83: Carjacking
+10-84: Request Canine (B: Bomb, T: Tracking, N: Narcotics)
+10-85: Request/Acknowledge Stinger Spike Deployment
+10-86: Request/Indicate Stinger Spike Removal
+10-93: Reckless Driver
+10-94: Drag Racing
+10-95: Prisoner
+10-96: Mental Subject
+10-97: Positive Response Gun Permit
+10-98: Suicide
+10-99: Public Service Other

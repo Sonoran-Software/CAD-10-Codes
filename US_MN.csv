@@ -1,0 +1,94 @@
+10-1: Receiving Poorly
+10-2: Receiving Well
+10-3: Stop Transmitting
+10-4: Acknowledgment
+10-5: Relay
+10-6: Busy,Will Call
+10-7: Out Of Service
+10-8: In Service
+10-9: Repeat Message
+10-10: Out/Service Subject To Call
+10-11: Dispatching Too Fast
+10-12: Officials Or Visitor
+10-13: Advise WX/Road Conditions
+10-14: Convoy Or Escort
+10-15: Prisoner In Custody
+10-16: Daily Reports
+10-17: Pick Up Papers/Unit
+10-18: Complete Present ASG ASAP
+10-19: Return To Station
+10-20: Location
+10-21: Call ____ By Phone
+10-22: Disregard
+10-23: Check For Traffic
+10-24: Clear No Traffic Now
+10-25: Have Contact With ____
+10-26: Call Office
+10-27: Any Answer On Our #
+10-28: Check Full MV Reg.
+10-29: Check For Stolen/Wanted
+10-30: Does Not Conform
+10-32: Breathalyzer Available
+10-33: Emergency Traffic
+10-34: Trouble At Station
+10-35: Confidential Information
+10-36: Correct Time
+10-37: Stop At (Location & Time)
+10-38: Investigating
+10-39: Assist Officer At
+10-40: Do Not Divulge Loc.
+10-41: Switch To Channel #
+10-42: Call Home
+10-43: # You Can Be Reached
+10-44: DIL Clear As Given
+10-45: Complete DIL Check
+10-46: Game & Fish Vio. Check
+10-47: Urinalysis Report
+10-48: Blood Alcohol Report
+10-51: 10-50 & Tow Truck Enroute
+10-52: Personal Injury Accident
+10-53: 10-52 & EMS Enroute
+10-54: Fatality Accident
+10-55: Funeral
+10-56: Investigate DUI/DWI
+10-57: Intoxicated/Inebriated
+10-58: Request Permission To Talk To
+10-59: 10-58 Complete
+10-60: What Is Next Item Number
+10-61: Clear For Assignment
+10-62: Enroute To Assignment
+10-63: Net Directed
+10-64: Net Free
+10-65: Clear For Item Or Assignment
+10-66: Clear For Cancellation
+10-68: Repeat Dispatch
+10-69: Drug Call
+10-70: Net Message
+10-71: Proceed With Traffic In Sequence
+10-72: Dead Person (DOA)
+10-73: Abandoned Vehicle
+10-74: Theft
+10-75: Juvenile Trouble
+10-76: See Complainant
+10-77: Prowler
+10-TS: Ambulance/EMS Call
+10-79: Domestic Disturbance
+10-80: Sex Crime
+10-81: ADT Or Bank Alarm
+10-82: Burglary
+10-83: Disturbance
+10-84: Fight
+10-85: Knifing/Stabbing
+10-86: Armed Robbery (holdup)
+10-87: Shooting
+10-88: Officer Needs Help
+10-89: Homicide
+10-90: Tower Light Check
+10-91: Disregard Further Help
+10-92: Reserve Room For ____
+10-93: Frequencies To Be Checked
+10-94: Radio Maintenance At ____
+10-95: Radio Check
+10-96: Civil Defense "Alert"
+10-97: Civil Defense "Evacuate"
+10-98: Civil Defense "Take Cover"

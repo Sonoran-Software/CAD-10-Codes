@@ -1,0 +1,41 @@
+10-1: Signal Weak  
+10-2: Signal Good  
+10-3: Stop Transmitting  
+10-4: Acknowledgment (OK)  
+10-5: Relay (to)  
+10-6: Busy  
+10-7: Out of Service  
+10-8: In Service  
+10-9: Say Again  
+10-10: Negative  
+10-11: On Duty  
+10-12: Stand By (Stop)  
+10-13: Existing Conditions  
+10-14: Message/Information  
+10-15: Message Delivered  
+10-16: Reply to Message  
+10-17: Enroute  
+10-18: Urgent  
+10-19: (In) Contact  
+10-20: Location  
+10-21: Call ____ by Telephone  
+10-22: Disregard  
+10-23: Arrived at Scene  
+10-24: Assignment Completed  
+10-25: Report to (Meet)  
+10-26: Estimated Arrival Time  
+10-27: License/Permit Information  
+10-28: Ownership Information  
+10-29: Record Check  
+10-30: Danger/Caution  
+10-31: Pick Up  
+10-32: Units Needed (Specify/Number/Type)  
+10-33: Help Me Quick  
+10-34: Time  
+10-35: Confidential Information  
+10-36: Correct Time  
+10-37: Operator On Duty  
+10-38: Station Report — Satisfactory  
+10-39: Reserved  
+10-40: Reserved  
+10-41: Reserved

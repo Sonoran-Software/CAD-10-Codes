@@ -1,0 +1,16 @@
+10-1: Unable to copy radio transmission
+10-4: Two officer unit
+10-4+: Three or more officer unit
+10-7: Out of service
+10-8: In service
+10-22: Disregard call/assignment
+10-27: Request for information on license
+10-28: Request vehicle registration information
+10-29: Request criminal record check on subject
+10-30: Subject has current/outstanding warrants
+10-30-T: Subject has suspended license, no license, or other traffic related issue
+10-33: Emergency – officer needs assistance
+10-50: Motor vehicle accident
+10-50-I: Motor vehicle accident with injuries
+10-89: Bomb threat
+10-99: One officer unit

@@ -1,0 +1,81 @@
+10-1: Signal Weak
+10-2: Signal Good
+10-3: Stop Transmitting
+10-4: Affirmative (OK)
+10-5: Relay To _____
+10-6: Busy
+10-7: Out Of Service
+10-8: In Service
+10-9: Say Again (Repeat)
+10-10: Negative
+10-11: On Duty
+10-12: Stand By (Stop)
+10-13: Existing Conditions–Road/Weather
+10-14: Message / Information
+10-15: Message Delivered
+10-16: Reply To Message
+10-17: En Route (To)
+10-18: Urgent
+10-19: (In) Contact
+10-20: Location
+10-21: Call _____ By Phone
+10-22: Disregard
+10-23: Arrived At Scene
+10-24: Assignment Completed
+10-25: Report To (Meet)
+10-26: Estimated Time Of Arrival
+10-27: License / Permit Information
+10-28: Ownership Information
+10-29: Records Check (Wanted)
+10-30: Danger / Caution
+10-31: Pick Up
+10-32: Man With A Gun
+10-33: Help (Emergency)
+10-34: Correct Time
+10-35: Crime In Progress
+10-36: Reserved
+10-37: Reserved
+10-38: Vehicle (Traffic) Stop
+10-39: Permit/Oversize/Overwidth Check
+10-40: Subject Detained, Expedite
+10-41: Beginning Tour Of Duty
+10-42: Ending Tour Of Duty
+10-43: Request Criminal History
+10-44: Permitted To Carry A Handgun
+10-45: Operating Authority
+10-46: Motorist Assist
+10-47: Abandoned Vehicle
+10-48: Road Hazard
+10-49: Impoundment List
+10-50: Traffic Accident (Specify Type)
+10-51: Wrecker
+10-52: Ambulance
+10-54: Livestock In Roadway
+10-55: Intoxicated Motorist
+10-56: Intoxicated Pedestrian
+10-59: Escort
+10-60: Unit In Vicinity
+10-66: Reserved
+10-70: Assisting Unit
+10-71: Officer Needs Assistance
+10-72: Check Welfare/Safety Of Officer
+10-73: Advise Status / OK?
+10-74: Road Block
+10-75: Deployment Of Stinger Spikes
+10-77: Registered Sex Offender
+10-79: Request Justice Of Peace/Coroner
+10-80: In Pursuit
+10-81: Breathalyzer Assistance Needed
+10-85: Building/Office Access Requested
+10-86: Officer/Operator On Duty
+10-89: Bomb Threat
+10-90: Alarm–Fire/Security (Specify)
+10-91: Prisoner Transfer
+10-92: Suspicious Activity
+10-93: Disturbance
+10-94: Secure Radio For Confidential Traffic
+10-95: Prisoner/Subject In Custody
+10-96: Mental Subject
+10-97: Known Offender
+10-98: Criminal History Indicated
+10-99: Wanted/Stolen Indicated

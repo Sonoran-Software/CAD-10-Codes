@@ -1,0 +1,78 @@
+10-1: Unable to copy
+10-2: Signal good
+10-3: Affirmative, granted
+10-4: Message received
+10-5: Relay (J1: Personnel; J2: Property, papers, etc.; J3: Prisoner)
+10-6: Busy, standby
+10-7: Out of service
+10-8: In service (J1: Personal business; J2: Vehicle maintenance; J3: Court/Dept. business)
+10-9: Repeat
+10-10: Minor detail, available for call
+10-11: Remain in service
+10-12: Visitor/Official present
+10-13: Weather/Road conditions (J1: Flying conditions)
+10-14: Correct time
+10-15: Have in possession (J1: Personnel; J2: Property, papers, etc.; J3: Prisoner)
+10-16: Vehicle check
+10-17: Urgent—rush present detail
+10-18: Anything for us?
+10-19: Nothing for us, negative
+10-20: Location
+10-21: Call by phone
+10-22: Report in person to (HQs unless otherwise specified) (J1: At once; J2: At your convenience)
+10-23: Arrived on the scene
+10-24: Finished with last assignment
+10-25: Disregard last assignment
+10-26: Hold subject
+10-27: Operator/Officer on duty
+10-28: Full registration (J1: Vehicle; J2: Driver)
+10-29: Check record of person (J1: Criminal history; J2: Wanted/Warrants)
+10-30: Does not conform to the rules & regulations
+10-31: Alleged narcotics violation
+10-33: Emergency traffic—this station
+10-34: Trouble at station—help needed
+10-35: Major crime alert
+10-36: Confidential information
+10-37: Subject with a gun
+10-38: Involved in danger—need immediate assistance
+10-39: Go to for the purpose of… (J2: Check of traffic)
+10-40: Car-to-car traffic
+10-41: Beginning tour of duty
+10-42: Ending tour of duty
+10-44: Message received by all
+10-50: Vehicle accident (J1: Minor, no injuries; J2: Serious, injuries; J3: Road blocked; J4: Fatality)
+10-51: Wrecker needed (J1: Has been notified)
+10-52: Ambulance needed (J1: Has been notified)
+10-53: Coroner needed (J1: Has been notified)
+10-54: Drag racing
+10-55: Driving while intoxicated (J1: Charges will be filed; J2: Make your own case)
+10-56: Intoxicated person
+10-59: Convoy/Escort
+10-60: What is the next message number?
+10-61: CW traffic
+10-62: Teletype traffic
+10-63: Any answer our number?
+10-64: Message for local delivery
+10-65: Net message or item assignment
+10-66: Cancellation
+10-67: Clear for net message
+10-68: Dispatch information
+10-70: Fire
+10-76: Enroute
+10-79: Report progress of fire
+10-80: Status check
+10-82: Reserve hotel room for…
+10-83: Residence
+10-83R: Spouse
+10-87: Pay checks are out
+10-88: Advise telephone number for…
+10-89: Communications employee needed—will arrive
+10-90: Alarm sounding (J1: Hold up; J2: Burglary; J3: Fire)
+10-91: Too weak, talk closer to the mic
+10-92: Too loud, talk further from the mic
+10-93: Frequency test
+10-94: Give a test (J1: With voice; J2: Without voice)
+10-95: Bomb call/threat
+10-96: Computer out of service
+10-97: Criminal history—caution indicator (J1: Felony arrest record; J2: Known to be armed & dangerous; J3: Known to obstruct/assault officers; J4: Sex Offender)
+10-99: Records indicate wanted or stolen (J1: Municipal warrant; J2: Misdemeanor; J3: Felony; J4: Caution code)

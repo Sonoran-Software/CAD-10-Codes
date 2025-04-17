@@ -1,0 +1,102 @@
+10-0: Caution
+10-1: Signal Weak
+10-2: Signal Good
+10-3: Stop Transmitting
+10-4: Affirmative (OK)
+10-5: Relay (To)
+10-6: Busy Unless Urgent
+10-7: Out Of Service (On Break)
+10-8: Back In Service
+10-9: Say Again
+10-10: Negative
+10-11: Is ____ On Duty?
+10-12: Stand By
+10-13: Existing Conditions
+10-14: Information
+10-15: Message Delivered
+10-16: Reply To Message
+10-17: Enroute
+10-18: Urgent
+10-19: Station/Headquarters
+10-20: Location
+10-21: Call ____ By Phone
+10-22: Disregard
+10-23: Arrived At Scene
+10-24: Assignment Complete
+10-25: Report To ____ (Meet)
+10-26: Estimated Time Of Arrival
+10-27: Driver Lic/Permit Info
+10-28: Vehicle Ownership Info
+10-29: Wants/Warrants Check
+10-30: Danger/Caution
+10-31: Pick Up ____
+10-32: ____ Units Needed
+10-33: Help Me Quick
+10-34: What Time Is It?
+10-35: Reserved
+10-36: Security Check
+10-37: F.I. File Check
+10-38: Treasury Detail
+10-39: Urgent Use Lights & Siren (Code 3)
+10-40: Silent Run, No Lights (Code 1)
+10-41: Beginning Tour Of Duty
+10-42: Ending Tour Of Duty
+10-43: Shuttle
+10-44: Permission To Leave
+10-45: Animal Carcass At ____
+10-46: Assist Motorist
+10-47: Suspicious Vehicle/Person/Incident
+10-48: Disturbing The Peace
+10-49: Traffic Light Out At ____
+10-50: Traffic Accident (PD, PI, F)
+10-51: Wrecker Needed
+10-52: Ambulance Needed
+10-53: Traffic Control
+10-54: Change To Channel ____
+10-55: Intoxicated Driver
+10-56: Intoxicated Pedestrian
+10-57: Hit And Run (PD, PI, F)
+10-58: Airplane Crash
+10-59: Reckless Driver
+10-60: Traffic Stop
+10-61: Motor Inspection
+10-62: Request Permission Car To Car
+10-63: Prepare To Copy
+10-64: Vandalism
+10-65: Juvenile Problem
+10-66: Major Crime Alert
+10-67: Paper Service
+10-68: Runaway Juvenile
+10-69: Missing Person
+10-70: Fire Alarm
+10-71: Nature Of Fire
+10-72: Progress Report On Fire
+10-73: Rape
+10-74: Civil Disturbance
+10-75: Domestic Problem
+10-76: Meet Complainant
+10-77: In Station
+10-78: Back Up ____
+10-79: Notify Coroner
+10-80: Chase In Progress
+10-81: Breathalyzer Report
+10-82: Prisoner In Custody
+10-83: Confidential Information
+10-84: Visitors Present
+10-85: Victim(s) Condition
+10-86: Crime In Progress
+10-87: Abandoned Car
+10-88: Man With Gun
+10-89: Bomb Threat
+10-90: Bank Alarm At ____
+10-91: Burglary
+10-92: Theft
+10-93: Unnecessary Use Of Radio
+10-94: Contact Your Home
+10-95: Out At Home
+10-96: Mental Subject
+10-97: Test Signal
+10-98: Prison Break
+10-99: Wanted/Stolen Indicated
+10-100: County-Wide Road Watch
+10-200: County-Wide Road Block

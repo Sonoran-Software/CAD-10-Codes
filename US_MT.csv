@@ -1,0 +1,62 @@
+10-1: Signal Weak  
+10-2: Signal Good  
+10-3: Stop Transmitting  
+10-4: Acknowledgement (OK)  
+10-5: Relay  
+10-6: Busy  
+10-7: Out of Service  
+10-8: In Service  
+10-9: Say Again  
+10-10: Negative  
+10-11: Stand By (Stop)  
+10-12: Officials or Visitors Present  
+10-13: Existing Conditions (Weather/Road)  
+10-14: Convoy or Escort  
+10-15: Prisoner in Custody  
+10-16: Reply to Message / Pick Up Prisoner  
+10-17: Enroute  
+10-18: Urgent  
+10-19: (In) Contact / Return to Station  
+10-20: Location  
+10-21: Call by Telephone  
+10-22: Disregard Last Information  
+10-23: Arrived at Scene  
+10-24: Assignment Completed  
+10-25: Report In Person (Meet)  
+10-26: Estimated Time of Arrival  
+10-27: License/Permit Information  
+10-28: Ownership / Registration Information  
+10-29: Record Check (Stolen/Wanted)  
+10-30: Danger/Caution (Unauthorized Use of Radio)  
+10-31: Crime in Progress  
+10-32: Units Needed (e.g., Person with Gun)  
+10-33: Emergency Traffic (Help Me)  
+10-34: Time Check / Correct Time  
+10-35: Confidential Information  
+10-36: Reserved  
+10-37: Reserved  
+10-38: Reserved  
+10-39: Reserved  
+10-40: Reserved  
+10-41: Reserved  
+10-42: Reserved  
+10-45: Assist Motorist  
+10-46: Emergency Road Repairs Needed  
+10-50: Traffic Accident (PD/PI/F)  
+10-51: Wrecker Needed  
+10-52: Ambulance Needed  
+10-53: Road Blocked  
+10-54: Livestock on Roadway  
+10-55: Intoxicated Driver  
+10-56: Intoxicated Pedestrian  
+10-57: Hit & Run Accident  
+10-58: Direct Traffic  
+10-59: Escort  
+10-60: Squad in Vicinity  
+10-76: Enroute to Assignment  
+10-77: Estimated Time of Arrival  
+10-78: Need Assistance  
+10-79: Notify Coroner  
+10-97: Arrived at Last Assignment  
+10-98: Finished with Last Assignment  
+10-99: Records Indicate Wanted/Stolen

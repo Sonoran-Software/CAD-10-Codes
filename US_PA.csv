@@ -1,0 +1,42 @@
+10-1: Receiving Poorly
+10-2: Receiving Fine
+10-3: Stop Transmitting
+10-4: Received, Acknowledgment
+10-5: Relay to
+10-6: Busy
+10-7: Out of Service
+10-8: In Service
+10-9: Say again last message
+10-10: Negative
+10-11: On Duty
+10-13: Existing Conditions
+10-14: Message Information
+10-15: Message Delivered
+10-16: Reply to message
+10-17: En route
+10-19: In Contact
+10-20: Location
+10-21: Call (station) by phone
+10-22: Disregard
+10-23: Arrived on Scene
+10-24: Assignment Completed
+10-25: Return to Station
+10-26: ETA
+10-27: Operator License Info
+10-28: Vehicle License Info
+10-29: Wants/Warrant Check
+10-30: Danger/Caution
+10-31: Pick Up
+10-32: Units needed, specify
+10-34: Time Check
+10-40: Advise if ____ at station or available
+10-42: Does Not Conform to regulations
+10-43: Advise road & weather conditions
+10-44: Stations involved acknowledge
+10-45: Accident
+10-46: Holding suspect, rush reply
+10-47: Send ambulance
+10-88: Package for
+10-89: ___ is calling you
+10-97: Radio Check
+10-99: Emergency

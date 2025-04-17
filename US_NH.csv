@@ -1,0 +1,100 @@
+10-1: In Service
+10-2: Out Of Service
+10-3: Transmit Message
+10-4: Repeat
+10-5: Message Received
+10-6: Stand By
+10-7: Unable To Read/Copy
+10-8: Transporting Subject
+10-9: Call ___ By phone
+10-10: Phone your location
+10-11: Report To Headquarters
+10-12: Disregard Last Info Given
+10-13: Assist Motorist
+10-14: Request To Take Meal At ___
+10-15: Off At Court At ___
+10-16: Abandoned Vehicle
+10-17: Arrest Log Info
+10-18: Your Location
+10-19: D.W.I
+10-20: Motor Vehicle Listing
+10-21: M.V. Record Check
+10-22: M.V. License Check
+10-23: N.C.I.C Check
+10-24: Criminal Record Check
+10-25: Traffic Accident
+10-25X: Traffic Accident-Hit&Run
+10-26: Fatal Accident
+10-27: Ambulance Needed/Enroute
+10-28: Wrecker Needed/Enroute
+10-29: Fire Dept. Needed/Enroute
+10-30: Work In Road/Traffic Tie-up
+10-31: Cty Attorney Notified/Enroute
+10-32: Med. Referee Needed/Enroute
+10-33: Need Assistance/Trouble At
+10-34: Officer Down/Needs Assistance
+10-35: Road Block-Stop All Traffic
+10-36: Use Caution-Subject Dangerous
+10-37: Mental Person
+10-38: Blood Relay
+10-39: Escort
+10-40: Observe But Don't Stop
+10-41: Check Suspicious Car
+10-42: Stop Where You Are Immediately
+10-43: Pursuit
+10-44: Suspicious Person or Prowler
+10-45: Stolen Vehicle
+10-46: Breathalyzer
+10-47: Explosion
+10-48: Fire
+10-48A: Fire Alarm
+10-49: Flooding
+10-50: Homicide
+10-51: Sexual Assault
+10-52(A, H): Burglary (A=Alarm, H=Holdup)
+10-53: Abduction
+10-54(S, A, N, D): Untimely Death (S=Suicide, A=Accident, N=Natural, D=Drowning)
+10-55: Robbery
+10-56: Assault
+10-57: Drug Case
+10-58: Larceny
+10-59: Drunk
+10-60: Brawl
+10-61: Domestic Disturbance
+10-62: Bomb Threat
+10-63: Request Explosive Unit
+10-64: Barricaded Subject
+10-65: Request SWAT Unit
+10-66: Shots Fired
+10-67: Request Canine Unit
+10-68: Send Additional Help
+10-69: Plane Crash
+10-70L: Lost Person
+10-70M: Missing Person
+10-70W: Wanted Person
+10-71: Fish & Game Notified
+10-72: Transporting Mental Person
+10-73: Escape–Jail/Prison
+10-74: Use Scrambler
+10-75: Resume Patrol
+10-76: Request To Leave Patrol
+10-77: Report Existing Conditions
+10-78: Meet A Party At __
+10-79: All Clear
+10-80: Prison Alert
+10-81: E.T.A. At Destination
+10-82: Will Be Late
+10-83: Out for Vehicle Repair
+10-84: Out for Radio Repair
+10-85: Assisting Motorist
+10-86: Road/Weather Conditions
+10-87: Administrative Relay
+10-88: See Complainant
+10-89: Traffic Check
+10-90: Subject has Scanner
+10-91: Hazmat Problem
+10-92: Bank Alarm
+10-93: Computer Down
+10-94: Prisoner in Custody
+10-98: NHSP Airplain
+10-99: (local option)

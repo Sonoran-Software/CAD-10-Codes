@@ -1,0 +1,82 @@
+10-1: Out of Service  
+10-2: In Service  
+10-3: Out of Service, Subject to Call  
+10-4: Out of Service, Equipment Trouble  
+10-5: Rush  
+10-6: Reference Previous Traffic  
+10-7: At Your Convenience  
+10-8: Unable to Copy  
+10-9: Unable to Answer at this Time  
+10-10: Call by Phone  
+10-11: Call Columbus HQ by Phone  
+10-12: Call District HQ by Phone  
+10-13: Call Post by Phone  
+10-14: Call Dispatcher by Phone  
+10-15: Call Your Home by Phone  
+10-16: Problem w/ Computer  
+10-16A: Problem w/ LEADS  
+10-17: Accident Report Number  
+10-18: Have Traffic, Relay  
+10-19: Relay by Phone  
+10-20: Contact in Person  
+10-21: Contact Columbus HQ in Person  
+10-22: Contact District HQ in Person  
+10-23: Contact Post in Person  
+10-24: Contact Dispatcher in Person  
+10-25: Contact Your Home in Person  
+10-27: Improper Procedure  
+10-29: Relay in Person  
+10-30: Accident - FATAL  
+10-31: Accident - PROPERTY DAMAGE  
+10-31A: Accident - INJURY  
+10-32: Traffic Jam or Road Block  
+10-33: Drowning  
+10-34: Fire - MOTOR VEHICLE  
+10-35: Fire - HAZARDOUS CARGO  
+10-36: Fire - OTHER  
+10-37: Disabled Vehicle  
+10-37A: Out of Gas  
+10-37B: Flat Tire  
+10-37C: Engine Trouble  
+10-37X: Unconfirmed Disabled Vehicle  
+10-38: Eating  
+10-39: Location  
+10-40: EMERGENCY  
+10-41: IMMEDIATELY  
+10-42: On Post  
+10-43: All Units–Call Your Post  
+10-44: All Units–Report to Your Post  
+10-45: Resuming Regular Patrol  
+10-46: FCC Inspector on Post  
+10-47: Traffic  
+10-48: High Winds–Stop Oversized Loads  
+10-49: Aircraft–Forced Landing  
+10-50: Aircraft–Unidentified  
+10-51: Aircraft–Down  
+10-52: Radioactive Material Shipment  
+10-53: Hazardous Load  
+10-53A: Explosives  
+10-53B: Poison Gas  
+10-53C: Liquid Gas  
+10-54: Explosives Involved  
+10-55: Explosion  
+10-56: Train Accident  
+10-57: Bomb Threat  
+10-58: Suspect Can Hear Radio  
+10-59: Permits  
+10-60: Convoy  
+10-65: Use Detour Routes  
+10-66: Discontinue Detour Routes  
+10-70: Open Administrative Gate  
+10-71: Authorized Person Entering  
+10-72: Unauthorized Person Entering  
+10-75: Suspect Wanted–Felony  
+10-76: Suspect Wanted–Misdemeanor  
+10-77: Wants/Warrants Check  
+10-79: Mentally Ill Subject  
+10-87: Backup Needed  
+10-88: Trooper In Trouble  
+10-89: Toll Officer in Trouble  
+10-95: Toll Alarm Test  
+10-99: Toll Booth Silent Alarm  
+10-100: Wrong Way Driver

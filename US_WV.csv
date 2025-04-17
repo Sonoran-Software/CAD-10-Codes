@@ -1,0 +1,94 @@
+001: Call The Station
+002: Report To Station/Address
+003: Call Company Headquarters
+004: Report To Company Headquarters
+005: Officer Needs Help
+006: Auto Accident
+006-A: Person(s) Injured
+006-B: Person(s) Killed
+007: Hit & run
+007-A: Person(s) Injured
+007-B: Person(s) Killed
+008: Traffic Congestion
+009: Drunk Driver
+010: Drunk Person
+011: Obstructing Traffic
+012: Fight
+012-A: Using Knives
+012-B: Using Guns
+013: Robbery
+013-A: Armed Robbery
+014: Stolen Automobile
+015: Stripping Automobile
+016: Breaking & Entering
+016-A: Suspect Still On Premises
+016-B: Breaking Without Entering
+016-C: Larceny
+016-E: Burglary
+017: Suspicious Person
+018: Murder
+019: Investigate Automobile Occupants
+020: Wants To See Officer
+021: Suicide
+022: Person Drowned
+022-A: Person Drowning
+023: Transporting Illegal Liquor
+024: Illegal Drug Activity (CDS)
+025: Gambling
+026: Destroying Property
+027: Disorderly Conduct
+028: Disturbing Public Worship
+029: Escaped Prisoner
+030: Jail Break
+031: Indecent Exposure
+032: Discharging Firearms On Or Near A Highway
+033: Trespassing
+034: Abduction
+035: Riot
+036: Tampering with Auto
+037: Stabbing
+038: Kidnapping
+039: Bad Check
+040: Passing Counterfeit Money
+041: Arson
+042: Rape
+043: Fraud
+044: Felonious Assault
+045: Bank Robbery
+046: Payroll Holdup
+047: Forgery
+048: Impersonating An Officer
+049: Sodomy
+050: Transporting Stolen Goods
+051: Concealing Stolen Goods
+052: Domestic Call
+053: Adultery
+054: Numbers - Lottery
+054-A: Transporting In Car
+055: Fugitive
+056: Reckless Driving
+057: Game Law
+057-A: Carrying Uncased Gun
+057-B: Hunting Out Of Season
+057-C: Dynamiting For Fish
+058: Carrying Concealed Weapon Or Weapons
+059: Interview A Witness
+060: Escort Funeral
+060-A: Handle Traffic At Funeral
+061: Missing Person
+062: Mine Explosion
+063: Parking Without Lights
+064: House Of Ill Fame
+065: Gypsies
+066: White Slavery - Mann Act
+067: Short-Change Of Racket
+068: Citizen Complaint - Noisy/Radio
+069: Meet Complainant
+070: Fire
+072: Report To Department HQ
+073: Meet An Officer
+074: Vehicle On Fire
+075: Forest Fire
+076: Call Your District HQ
+077: Report To Your District HQ
+101: Concerning Subversive Activity

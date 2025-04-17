@@ -1,0 +1,103 @@
+10-0: Use caution. Details not known
+10-00: Given as "double zero". Office needs all possible assistance
+10-1: Unable to copy - charge location
+10-2: Signal good
+10-3: Stop transmitting
+10-4: Acknowledgment (OK)
+10-5: Relay. (J1 - Personnel; J2 - Property; J3 - Prisoner; J4 - Papers)
+10-6: Busy - unless urgent
+10-7: Out of service. Not subject to call
+10-8: In service
+10-9: Repeat
+10-10: Out of service. Subject to call
+10-11: Remain in service
+10-12: Stand by (Stop). Remain alert for further details
+10-13: Weather and road conditions
+10-14: Correct time
+10-15: Have in possesion; (J1 - papers; J2 - Property; J3 - Prisoner; J4 - Papers)
+10-16: Pick up: (J1 - Personnel; J2 - Property; J3 - Prisoner; J4 - Papers)
+10-17: Urgent. Rush present detail
+10-18: Any traffic for this unit or station?
+10-19: No traffic for your unit or station
+10-20: Location?
+10-21: Call. . . . . by telephone
+10-22: Report in person to . .
+10-23: Arrived at scene
+10-24: Assignment completed
+10-25: Disregard last information or assignment
+10-26: Detaining person or vehicle. Expedite
+10-27: Drivers license information
+10-28: Vehicle registration information
+10-29: Check for wanted
+10-30: Illegal use of radio
+10-31: Hit and run. (J1 - personnel; J2 - Property)
+10-32: Man with gun
+10-33: EMERGENCY. Maxumum priority. All units and Stations not involved - maintain radio silence
+10-34: Tower lights
+10-35: Major crime alert
+10-36: Urgent. Use light and siren
+10-37: Urgent. Silent run
+10-38: Investigate suspicious vehicle. (J1 - Occupied; J2 - Unoccupied)
+10-39: Stopping suspicious vehicle. Give all information before stopping
+10-40: Stolen vehicle
+10-41: Beginning tour of duty
+10-42: Ending tour of duty
+10-43: Complete present assignment quickly
+10-44: Permission to leave assigned patrol area
+10-45: Off day
+10-46: Assist motorist
+10-47: Emergency road repairs needed
+10-48: Need assistance. Not 00 or 10-33
+10-49: Traffic light out . .
+10-50: Accident (F- Fatal; PI - Personal injury; PD - Property damage; S- State veh.)
+10-51: Wrecker needed
+10-52: Ambulance needed
+10-53: Road blocked
+10-54: Livestock on highway. (J1 - live stock; J2 - carcass)
+10-55: Intoxicated driver
+10-56: Intoxicated pedestrian
+10-57: Crime in progress
+10-58: Direct traffic
+10-59: Convoy or escort
+10-60: Attempt to contact
+10-61: Return to . .
+10-62: Reply to message
+10-63: Prepare to make written copy
+10-64: Message for local delivery
+10-65: Radio log number
+10-66: Message, dispatch, or assignment cancellation
+10-67: Prowler report
+10-68: Dispatch information
+10-69: Car to car clearance
+10-70: Fire alarm. (F - forest; H - house; V - Vehicle)
+10-71: Report progress on fire
+10-72: Meet complainant
+10-73: Supervisor needed
+10-74: Intoximeter operator needed
+10-75: Photographer needed
+10-76: Investigator needed
+10-77: Narcotics agent needed
+10-78: Notify coroner
+10-79: In contact with
+10-80: D.C.G. (disaster control group) (ope. con. 1; op. con. 2; op. con. 3)
+10-81: Squad in vicinity
+10-82: Reserve lodging
+10-83: Cancel reservations
+10-84: En route
+10-85: Will be late
+10-86: Missing person
+10-87: E.T.A. (estimated time of arrival)
+10-88: Present telephone number of . .
+10-89: Dead person
+10-90: Bank alarm
+10-91: Unnecessary use of radio
+10-92: Murder
+10-93: Blockade. (road block)
+10-94: Drag racing
+10-95: Reckless driving
+10-96: Mental person
+10-97: Civil distrubance; (A - Racial; B - Teenagers; C - Crowd gathering; D - Fighting)
+10-98: Prison or jail break
+10-99: Records indicate wanted or stolen (A - felony; B - Misdemeanor)
+10-100: Hot pursuit
+10-101: Attempting to out run patrol car

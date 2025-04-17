@@ -1,0 +1,74 @@
+10-1: Receiving Poorly
+10-2: Receiving Well
+10-3: Stop Transmitting
+10-4: OK/Acknowledgment
+10-5: Relay Radio Information
+10-6: Busy
+10-7: Out of Service
+10-8: In Service
+10-9: Repeat
+10-10: Out of Service subject to calls
+10-11: Dispatching To Rapidly
+10-12: Visitor or Official Present
+10-13: Conditions
+10-15: Prisoner in Custody
+10-18: Complete Assignment Quickly
+10-18X: Use lights and sirens
+10-19: Return to Station/Office
+10-20: Location
+10-21: Call Station / Office By Phone
+10-22: Disregard
+10-23: Standby
+10-24: TROUBLE SEND HELP
+10-25: Contact With
+10-26: Message Received
+10-27: DL Check
+10-28: Registration Check
+10-29: Wanted Check
+10-29P: Wanted Check-Person
+10-30: Against Rules And Regulations
+10-31: IN PURSUIT
+10-33: EMERGENCY
+10-34: Subpoena
+10-35: Confidential Information
+10-36: Correct Time
+10-37: Duty Officer On Duty
+10-38: Roadblock
+10-39: Message Delivered
+10-41: In Possession Of
+10-42: Out of service @ home
+10-43: Any Information
+10-45: Call By Phone
+10-46: URGENT
+10-48: End of Message Did You Receive?
+10-49: Sheriffs Office / Police Department
+10-50: Traffic Stop (10-20 and Tag #)
+10-51: En-route
+10-52: ETA
+10-53: Coming To Station/Office
+10-54: Negative
+10-55: Unit To Unit Transmission
+10-56: Meet At
+10-57: Departing Zone
+10-58: Entering Zone
+10-61: Service Needed
+10-63: Request For
+10-63B: BAC Technician
+10-63F: Plane Or Helicopter
+10-63K: K9
+10-63P: Perimeter
+10-63S: SRT
+10-64: Radio Net Free
+10-65: Clear To Copy
+10-66: Cancel
+10-69: Fire Truck
+10-70: Wrecker
+10-71: Ambulance/Rescue
+10-76: Change Radio Frequency
+10-88: Telephone Number
+10-94: REQUEST ROUTINE BACKUP
+10-97: Arrival
+10-98: Completed / Cleared
+10-99: Unable To Receive Your Signal
+10-100: ALERT - REMAIN IN CONTACT WITH STATION BY PHONE
+10-155: Private Call - VIA RADIO

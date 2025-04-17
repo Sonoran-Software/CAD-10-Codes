@@ -1,0 +1,70 @@
+Code A: Emergency
+Code B: Sensitive Information
+1: Dept-Wide Mobilization Signal
+T-1: Test Alert Signal
+2: Emergency Operations Plan
+3: State Capital
+4: Governors Residence
+5: Priority Use Of Radio
+6: Priority Use Of Tac Channel
+10: Accident
+11: Fatal Accident
+12: Motor Vehicle Violator
+13: D W I
+14: Disable Motorist
+15: Motor Vehicle Information
+15S: Check For Stolen
+16: File 1
+17: Suspension
+20: NCIC Check
+21: Sexual Offense
+22: File 1 Motor Vehicle
+23: Alarm
+23A: Active Alarm
+23B: Active Alarm (no response)
+23C: False Alarm
+24: Bomb Threat
+25: Escape
+31: Out Of Service
+32: In Service
+33: Call Troop
+34: Location
+35: Return To Troop
+36: Transport Passenger
+37: Transport Prisoner
+38: Transport Package
+39: Radio Test
+40: Repeat
+41: Check Radio Tower
+42: Radioactive Material Involved
+43: Intoxicated Person
+44: Untimely Death
+45: Missing Person
+46: Fire
+47: Bank Check
+48: Blood Relay
+49: Midnight Shift Check
+50: Voluntary Response
+51: Breach Of Peace
+52: Unruly Patron
+53: Domestic Dispute
+54: Disturbance
+55: Assault
+56: Assault With Weapon
+57: Robbery
+59: Unknown Problem
+60: Burglary
+61: Larceny
+62: Criminal Mischief
+63: Criminal Trespass
+64: Prowler Complaint
+65: Suspicious Motor Vehicle
+70: Request Ambulance
+71: Assist Ambulance
+72: Lockout Of Motor Vehicle
+73: Send Wrecker
+74: Request Medical Examiner
+75: Radio Silence
+76: Attempt Of Suicide
+77: Physical Case
+78: Drug Case
